@@ -1,0 +1,139 @@
+
+{ "Poblacion-por-Provincias":{
+    "anno-2022":{
+        "Pinar-del-Rio": 575545,
+        "Artemisa": 512818,
+        "La-Habana": 2137847,
+        "Mayabeque": 381104,
+        "Matanzas": 710127,
+        "Villa-Clara": 763494,
+        "Cienfuegos": 401738,
+        "Sancti-Spiritus": 459173,
+        "Ciego-de-Avila": 430507, 
+        "Camaguey": 756064,
+        "Las-Tunas": 528853,
+        "Holguin": 1006834,
+        "Granma": 804331,
+        "Santiago-de-Cuba": 1037339,
+        "Guantanamo": 500153,
+        "Isla-de-la-Juventud": 83583
+
+    } 
+       
+},
+
+
+ "Mayabeque":{
+    "Annos":[
+        {
+            "anno": 2010,
+            "poblacion": 372752,
+            "hombres": 188975,
+            "mujeres": 183777 ,
+            "Tasa-Migracion-interna": 4.3,
+            "Tasa-Migracion-externa": -4.5
+        },
+        {
+            "annos": 2011,
+            "poblacion": 371125,
+            "hombres": 188262,
+            "mujeres": 182863,
+            "Tasa-Migracion-interna": -0.3,
+            "Tasa-Migracion-externa": -4.7
+        },
+        {
+            "anno": 2012,
+            "poblacion": 376836,
+            "hombres": 191270,
+            "mujeres": 185556,
+            "Tasa-Migracion-interna": 2.4,
+            "Tasa-Migracion-externa": -1.1
+        },
+        {
+            "anno": 2013,
+            "poblacion": 378382,
+            "hombres": 192088,
+            "mujeres": 186294,
+            "Tasa-Migracion-interna": 2.0,
+            "Tasa-Migracion-externa": 0
+        },
+        {
+            "anno": 2014,
+            "poblacion": 379942,
+            "hombres": 192848,
+            "mujeres": 187094,
+            "Tasa-Migracion-interna": 2.6,
+            "Tasa-Migracion-externa": 0.2
+        },
+        {
+            "anno": 2015,
+            "poblacion": 381012,
+            "hombres": 193251,
+            "mujeres": 187761,
+            "Tasa-Migracion-interna": 4.8,
+            "Tasa-Migracion-externa": -3.2
+        },
+        {
+            "anno": 2016,
+            "poblacion": 381689,
+            "hombres": 193251,
+            "mujeres": 188161,
+            "Tasa-Migracion-interna": 3.3,
+            "Tasa-Migracion-externa": -1.9
+        },
+        {
+            "anno": 2017,
+            "poblacion": 382459,
+            "hombres": 193757,
+            "mujeres": 188702,
+            "Tasa-Migracion-interna": 4.5,
+            "Tasa-Migracion-externa": -2.6
+        },
+        {
+            "anno": 2018,
+            "poblacion": 383403,
+            "hombres": 194120,
+            "mujeres": 189283,
+            "Tasa-Migracion-interna": 4.2,
+            "Tasa-Migracion-externa": -2.3
+        },
+        {
+            "anno": 2019,
+            "poblacion": 383869,
+            "hombres": 194147,
+            "mujeres": 189722,
+            "Tasa-Migracion-interna": 3.7,
+            "Tasa-Migracion-externa": -1.9
+        },
+        {
+            "anno": 2020,
+            "poblacion": 384389,
+            "hombres": 194268,
+            "mujeres": 190121,
+            "Tasa-Migracion-interna": 2.4,
+            "Tasa-Migracion-externa": -0.3
+        },
+        {
+            "anno": 2021,
+            "poblacion": 381900,
+            "hombres": 192734,
+            "mujeres": 189166,
+            "Tasa-Migracion-interna": -0.5,
+            "Tasa-Migracion-externa": 0
+        },
+        {
+            "anno": 2022,
+            "poblacion": 381104,
+            "hombres": 192299,
+            "mujeres": 188805,
+            "Tasa-Migracion-interna": 1.5,
+            "Tasa-Migracion-externa": 0.2
+        }
+
+    ]
+ }, 
+
+
+
+
+}
