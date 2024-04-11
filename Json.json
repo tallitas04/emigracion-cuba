@@ -8,16 +8,17 @@
             "poblacion": 372752,
             "hombres": 188975,
             "mujeres": 183777 ,
-            "Tasa-Migracion-interna": 4.3,
-            "Tasa-Migracion-externa": -4.5
+            "tasa-migracion-interna": 4.3,
+            "tasa-migracion-externa": -4.5
+
         },
         {
             "annos": 2011,
             "poblacion": 371125,
             "hombres": 188262,
             "mujeres": 182863,
-            "Tasa-Migracion-interna": -0.3,
-            "Tasa-Migracion-externa": -4.7,
+            "tasa-migracion-interna": -0.3,
+            "tasa-migracion-externa": -4.7,
             "saldo-medio-mensual": 455
 
         },
@@ -26,8 +27,8 @@
             "poblacion": 376836,
             "hombres": 191270,
             "mujeres": 185556,
-            "Tasa-Migracion-interna": 2.4,
-            "Tasa-Migracion-externa": -1.1,
+            "tasa-migracion-interna": 2.4,
+            "tasa-migracion-externa": -1.1,
             "saldo-medio-mensual": 465
 
         },
@@ -36,8 +37,8 @@
             "poblacion": 378382,
             "hombres": 192088,
             "mujeres": 186294,
-            "Tasa-Migracion-interna": 2.0,
-            "Tasa-Migracion-externa": 0,
+            "tasa-migracion-interna": 2.0,
+            "tasa-migracion-externa": 0,
             "saldo-medio-mensual": 474
 
         },
@@ -46,81 +47,216 @@
             "poblacion": 379942,
             "hombres": 192848,
             "mujeres": 187094,
-            "Tasa-Migracion-interna": 2.6,
-            "Tasa-Migracion-externa": 0.2,
-            "saldo-medio-mensual": 553
+            "tasa-migracion-interna": 2.6,
+            "tasa-migracion-externa": 0.2,
+            "saldo-medio-mensual": 553,
+            "tasa-migracion-municipal": {
+              "bejucal": 3.5,
+              "san-jose-de-las-lajas": 9.2,
+              "jaruco": 1.2,
+              "santa-cruz-del-norte": 4.2,
+              "madruga": -1.7,
+              "nueva-paz": -8.1,
+              "san-nicolas": 3.0,
+              "guines": 1.5,
+              "melena-del-sur": -0.2,
+              "batabano": 2.4,
+              "quivican": 2.3
+
+            
+            }
         },
         {
             "anno": 2015,
             "poblacion": 381012,
             "hombres": 193251,
             "mujeres": 187761,
-            "Tasa-Migracion-interna": 4.8,
-            "Tasa-Migracion-externa": -3.2,
-            "saldo-medio-mensual": 642
+            "tasa-migracion-interna": 4.8,
+            "tasa-migracion-externa": -3.2,
+            "saldo-medio-mensual": 642,
+            "tasa-migracion-municipal": {
+              "bejucal": 7.8,
+              "san-jose-de-las-lajas": 10.6,
+              "jaruco": 4.2,
+              "santa-cruz-del-norte": 5.6,
+              "madruga": -2.1,
+              "nueva-paz": -6.6,
+              "san-nicolas": 4.5,
+              "guines": 3.1,
+              "melena-del-sur": 3.3,
+              "batabano": 5.8,
+              "quivican": 6.9
+
+            
+            }
         },
         {
             "anno": 2016,
             "poblacion": 381689,
             "hombres": 193251,
             "mujeres": 188161,
-            "Tasa-Migracion-interna": 3.3,
-            "Tasa-Migracion-externa": -1.9,
-            "saldo-medio-mensual": 725
+            "tasa-migracion-interna": 3.3,
+            "tasa-migracion-externa": -1.9,
+            "saldo-medio-mensual": 725,
+            "tasa-migracion-municipal": {
+              "bejucal": 6.8,
+              "san-jose-de-las-lajas": 13.0,
+              "jaruco": 1.9,
+              "santa-cruz-del-norte": 3.4,
+              "madruga": -4.6,
+              "nueva-paz": -8.0,
+              "san-nicolas": -0.9,
+              "guines": 3.1,
+              "melena-del-sur": -1.1,
+              "batabano": 0.7,
+              "quivican": 0.4
+
+            
+            }
         },
         {
             "anno": 2017,
             "poblacion": 382459,
             "hombres": 193757,
             "mujeres": 188702,
-            "Tasa-Migracion-interna": 4.5,
-            "Tasa-Migracion-externa": -2.6,
-            "saldo-medio-mensual": 738
+            "tasa-migracion-interna": 4.5,
+            "tasa-migracion-externa": -2.6,
+            "saldo-medio-mensual": 738,
+            "tasa-migracion-municipal": {
+              "bejucal": 11.8,
+              "san-jose-de-las-lajas": 14.5,
+              "jaruco": 1.1,
+              "santa-cruz-del-norte": 2.0,
+              "madruga": -2.6,
+              "nueva-paz": -8.4,
+              "san-nicolas": 0.3,
+              "guines": 2.8,
+              "melena-del-sur": 0.9,
+              "batabano": 5.0,
+              "quivican": 3.7
+
+            
+            }
         },
         {
             "anno": 2018,
             "poblacion": 383403,
             "hombres": 194120,
             "mujeres": 189283,
-            "Tasa-Migracion-interna": 4.2,
-            "Tasa-Migracion-externa": -2.3,
-            "saldo-medio-mensual": 719
+            "tasa-migracion-interna": 4.2,
+            "tasa-migracion-externa": -2.3,
+            "saldo-medio-mensual": 719,
+            "tasa-migracion-municipal": {
+              "bejucal": 12.0,
+              "san-jose-de-las-lajas": 12.4,
+              "jaruco": 1.3,
+              "santa-cruz-del-norte": 0.9,
+              "madruga": -2.3,
+              "nueva-paz": -7.4,
+              "san-nicolas": 1.5,
+              "guines": 2.5,
+              "melena-del-sur": 2.6,
+              "batabano": 4.9,
+              "quivican": 3.2
+
+            
+            }
         },
         {
             "anno": 2019,
             "poblacion": 383869,
             "hombres": 194147,
             "mujeres": 189722,
-            "Tasa-Migracion-interna": 3.7,
-            "Tasa-Migracion-externa": -1.9,
-            "saldo-medio-mensual": 819
+            "tasa-migracion-interna": 3.7,
+            "tasa-migracion-externa": -1.9,
+            "saldo-medio-mensual": 819,
+            "tasa-migracion-municipal": {
+              "bejucal": 8.8,
+              "san-jose-de-las-lajas": 12.5,
+              "jaruco": 1.6,
+              "santa-cruz-del-norte": 3.4,
+              "madruga": -1.1,
+              "nueva-paz": -7.2,
+              "san-nicolas": 1.3,
+              "guines": 1.7,
+              "melena-del-sur": -2.7,
+              "batabano": 3.6,
+              "quivican": 1.0
+
+            
+            }
         },
         {
             "anno": 2020,
             "poblacion": 384389,
             "hombres": 194268,
             "mujeres": 190121,
-            "Tasa-Migracion-interna": 2.4,
-            "Tasa-Migracion-externa": -0.3,
-            "saldo-medio-mensual": 1151
+            "tasa-migracion-interna": 2.4,
+            "tasa-migracion-externa": -0.3,
+            "saldo-medio-mensual": 1151,
+            "tasa-migracion-municipal": {
+              "bejucal": 7.0,
+              "san-jose-de-las-lajas": 7.6,
+              "jaruco": 4.2,
+              "santa-cruz-del-norte": 2.9,
+              "madruga": -3.9,
+              "nueva-paz": -4.9,
+              "san-nicolas": 0.3,
+              "guines": 0.1,
+              "melena-del-sur": 0.2,
+              "batabano": -0.1,
+              "quivican": 3.6
+
+            
+            }
         },
         {
             "anno": 2021,
             "poblacion": 381900,
             "hombres": 192734,
             "mujeres": 189166,
-            "Tasa-Migracion-interna": -0.5,
-            "Tasa-Migracion-externa": 0,
-            "saldo-medio-mensual": 3658
+            "tasa-migracion-interna": -0.5,
+            "tasa-migracion-externa": 0,
+            "saldo-medio-mensual": 3658,
+            "tasa-migracion-municipal": {
+              "bejucal": -0.4,
+              "san-jose-de-las-lajas": 2.7,
+              "jaruco": -2.3,
+              "santa-cruz-del-norte": 1.8,
+              "madruga": -2.0,
+              "nueva-paz": -6.6,
+              "san-nicolas": -1.5,
+              "guines": -1.9,
+              "melena-del-sur": -0.08,
+              "batabano": -2.0,
+              "quivican": 1.1
+
+            
+            }
         },
         {
             "anno": 2022,
             "poblacion": 381104,
             "hombres": 192299,
             "mujeres": 188805,
-            "Tasa-Migracion-interna": 1.5,
-            "Tasa-Migracion-externa": 0.2,
-            "saldo-medio-mensual": 4038
+            "tasa-migracion-interna": 1.5,
+            "tasa-migracion-externa": 0.2,
+            "saldo-medio-mensual": 4038,
+            "tasa-migracion-municipal": {
+              "bejucal": 6.8,
+              "san-jose-de-las-lajas": 5.5,
+              "jaruco": 0.5,
+              "santa-cruz-del-norte": -0.8,
+              "madruga": -2.6,
+              "nueva-paz": -6.7,
+              "san-nicolas": 1.6,
+              "guines": 0.8,
+              "melena-del-sur": 2.1,
+              "batabano": -0.6,
+              "quivican": 2.3
+
+            
+            }
         }
 
     ]
@@ -174,7 +310,7 @@
 
 },
 { "anno":2022,
-  "Poblacion":  575545,
+  "poblacion":  575545,
 "saldo-medio-mensual": 4028
 
 }
@@ -230,7 +366,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 512818,
+  "poblacion": 512818,
 "saldo-medio-mensual": 4242
 
 }
@@ -283,7 +419,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 2137847,
+  "poblacion": 2137847,
 "saldo-medio-mensual": 4686
 
 }
@@ -337,7 +473,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 710127,
+  "poblacion": 710127,
 "saldo-medio-mensual": 3942
 }
         ]
@@ -391,7 +527,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 763494,
+  "poblacion": 763494,
 "saldo-medio-mensual": 4049
 
 }
@@ -445,7 +581,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 401738,
+  "poblacion": 401738,
 "saldo-medio-mensual": 3937
 
 }
@@ -499,7 +635,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 459173,
+  "poblacion": 459173,
 "saldo-medio-mensual": 3916
 
 }
@@ -553,7 +689,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 430507,
+  "poblacion": 430507,
 "saldo-medio-mensual": 4083
 
 }
@@ -607,7 +743,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 756064,
+  "poblacion": 756064,
 "saldo-medio-mensual": 3878
 
 }
@@ -661,7 +797,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 528853,
+  "poblacion": 528853,
 "saldo-medio-mensual": 3894
 
 }
@@ -715,7 +851,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 1006834,
+  "poblacion": 1006834,
 "saldo-medio-mensual": 4151
 
 }
@@ -769,7 +905,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 804331,
+  "poblacion": 804331,
 "saldo-medio-mensual": 3871
 
 }
@@ -823,7 +959,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 1037339,
+  "poblacion": 1037339,
 "saldo-medio-mensual": 3816
 
 }
@@ -877,7 +1013,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 500153,
+  "poblacion": 500153,
 "saldo-medio-mensual": 3911
 
 }
@@ -931,7 +1067,7 @@
 
 },
 { "anno":2022,
-  "Poblacion": 83583,
+  "poblacion": 83583,
 "saldo-medio-mensual": 3797
 
 }
