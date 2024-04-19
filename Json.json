@@ -1,1081 +1,1226 @@
 {
+    "Mayabeque": {
+      "tmi-10-22" : [
+      4.3,
+      -0.3,
+      2.4,
+      2.0,
+      2.6,
+      4.8,
+      3.3,
+      4.5,
+      4.2,
+      3.7,
+      2.4,
+      -0.5,
+      1.5
+    ],
+
+    "tme-10-22" : [
+      -4.5,
+      -4.7,
+      -1.1,
+      0,
+      0.2,
+      -3.2,
+      -1.9,
+      -2.6,
+      -2.3,
+      -1.9,
+      -0.3,
+      0,
+      0.2
 
 
-"Mayabeque": {
-    "Annos":[
-        {
-            "anno": 2010,
-            "poblacion": 372752,
-            "hombres": 188975,
-            "mujeres": 183777 ,
-            "tasa-migracion-interna": 4.3,
-            "tasa-migracion-externa": -4.5
 
-        },
-        {
-            "annos": 2011,
-            "poblacion": 371125,
-            "hombres": 188262,
-            "mujeres": 182863,
-            "tasa-migracion-interna": -0.3,
-            "tasa-migracion-externa": -4.7,
-            "saldo-medio-mensual": 455
+    ],
 
-        },
-        {
-            "anno": 2012,
-            "poblacion": 376836,
-            "hombres": 191270,
-            "mujeres": 185556,
-            "tasa-migracion-interna": 2.4,
-            "tasa-migracion-externa": -1.1,
-            "saldo-medio-mensual": 465
+    "p-10-22": [
+      372752,
+      371125,
+      376836,
+      378382,
+      379942,
+      381012,
+      381689,
+      382459,
+      383403,
+      383869,
+      384389,
+      381900,
+      381104
 
-        },
-        {
-            "anno": 2013,
-            "poblacion": 378382,
-            "hombres": 192088,
-            "mujeres": 186294,
-            "tasa-migracion-interna": 2.0,
-            "tasa-migracion-externa": 0,
-            "saldo-medio-mensual": 474
+    ],
 
-        },
-        {
-            "anno": 2014,
-            "poblacion": 379942,
-            "hombres": 192848,
-            "mujeres": 187094,
-            "tasa-migracion-interna": 2.6,
-            "tasa-migracion-externa": 0.2,
-            "saldo-medio-mensual": 553,
-            "tasa-migracion-municipal": {
-              "bejucal": 3.5,
-              "san-jose-de-las-lajas": 9.2,
-              "jaruco": 1.2,
-              "santa-cruz-del-norte": 4.2,
-              "madruga": -1.7,
-              "nueva-paz": -8.1,
-              "san-nicolas": 3.0,
-              "guines": 1.5,
-              "melena-del-sur": -0.2,
-              "batabano": 2.4,
-              "quivican": 2.3
+    "pm-10-22": [
+      183777,
+      182863,
+      185556,
+      186294,
+      187094,
+      187761,
+      188161,
+      188702,
+      189283,
+      189722,
+      190121,
+      189166,
+      188805
+    ],
 
-            
-            }
-        },
-        {
-            "anno": 2015,
-            "poblacion": 381012,
-            "hombres": 193251,
-            "mujeres": 187761,
-            "tasa-migracion-interna": 4.8,
-            "tasa-migracion-externa": -3.2,
-            "saldo-medio-mensual": 642,
-            "tasa-migracion-municipal": {
-              "bejucal": 7.8,
-              "san-jose-de-las-lajas": 10.6,
-              "jaruco": 4.2,
-              "santa-cruz-del-norte": 5.6,
-              "madruga": -2.1,
-              "nueva-paz": -6.6,
-              "san-nicolas": 4.5,
-              "guines": 3.1,
-              "melena-del-sur": 3.3,
-              "batabano": 5.8,
-              "quivican": 6.9
+    "ph-10-22": [
+      188975,
+      188262,
+      191270,
+      192088,
+      192848,
+      193251,
+      193251,
+      193757,
+      194120,
+      194147,
+      194268,
+      192734,
+      192299
+    ],
 
-            
-            }
-        },
-        {
-            "anno": 2016,
-            "poblacion": 381689,
-            "hombres": 193251,
-            "mujeres": 188161,
-            "tasa-migracion-interna": 3.3,
-            "tasa-migracion-externa": -1.9,
-            "saldo-medio-mensual": 725,
-            "tasa-migracion-municipal": {
-              "bejucal": 6.8,
-              "san-jose-de-las-lajas": 13.0,
-              "jaruco": 1.9,
-              "santa-cruz-del-norte": 3.4,
-              "madruga": -4.6,
-              "nueva-paz": -8.0,
-              "san-nicolas": -0.9,
-              "guines": 3.1,
-              "melena-del-sur": -1.1,
-              "batabano": 0.7,
-              "quivican": 0.4
-
-            
-            }
-        },
-        {
-            "anno": 2017,
-            "poblacion": 382459,
-            "hombres": 193757,
-            "mujeres": 188702,
-            "tasa-migracion-interna": 4.5,
-            "tasa-migracion-externa": -2.6,
-            "saldo-medio-mensual": 738,
-            "tasa-migracion-municipal": {
-              "bejucal": 11.8,
-              "san-jose-de-las-lajas": 14.5,
-              "jaruco": 1.1,
-              "santa-cruz-del-norte": 2.0,
-              "madruga": -2.6,
-              "nueva-paz": -8.4,
-              "san-nicolas": 0.3,
-              "guines": 2.8,
-              "melena-del-sur": 0.9,
-              "batabano": 5.0,
-              "quivican": 3.7
-
-            
-            }
-        },
-        {
-            "anno": 2018,
-            "poblacion": 383403,
-            "hombres": 194120,
-            "mujeres": 189283,
-            "tasa-migracion-interna": 4.2,
-            "tasa-migracion-externa": -2.3,
-            "saldo-medio-mensual": 719,
-            "tasa-migracion-municipal": {
-              "bejucal": 12.0,
-              "san-jose-de-las-lajas": 12.4,
-              "jaruco": 1.3,
-              "santa-cruz-del-norte": 0.9,
-              "madruga": -2.3,
-              "nueva-paz": -7.4,
-              "san-nicolas": 1.5,
-              "guines": 2.5,
-              "melena-del-sur": 2.6,
-              "batabano": 4.9,
-              "quivican": 3.2
-
-            
-            }
-        },
-        {
-            "anno": 2019,
-            "poblacion": 383869,
-            "hombres": 194147,
-            "mujeres": 189722,
-            "tasa-migracion-interna": 3.7,
-            "tasa-migracion-externa": -1.9,
-            "saldo-medio-mensual": 819,
-            "tasa-migracion-municipal": {
-              "bejucal": 8.8,
-              "san-jose-de-las-lajas": 12.5,
-              "jaruco": 1.6,
-              "santa-cruz-del-norte": 3.4,
-              "madruga": -1.1,
-              "nueva-paz": -7.2,
-              "san-nicolas": 1.3,
-              "guines": 1.7,
-              "melena-del-sur": -2.7,
-              "batabano": 3.6,
-              "quivican": 1.0
-
-            
-            }
-        },
-        {
-            "anno": 2020,
-            "poblacion": 384389,
-            "hombres": 194268,
-            "mujeres": 190121,
-            "tasa-migracion-interna": 2.4,
-            "tasa-migracion-externa": -0.3,
-            "saldo-medio-mensual": 1151,
-            "tasa-migracion-municipal": {
-              "bejucal": 7.0,
-              "san-jose-de-las-lajas": 7.6,
-              "jaruco": 4.2,
-              "santa-cruz-del-norte": 2.9,
-              "madruga": -3.9,
-              "nueva-paz": -4.9,
-              "san-nicolas": 0.3,
-              "guines": 0.1,
-              "melena-del-sur": 0.2,
-              "batabano": -0.1,
-              "quivican": 3.6
-
-            
-            }
-        },
-        {
-            "anno": 2021,
-            "poblacion": 381900,
-            "hombres": 192734,
-            "mujeres": 189166,
-            "tasa-migracion-interna": -0.5,
-            "tasa-migracion-externa": 0,
-            "saldo-medio-mensual": 3658,
-            "tasa-migracion-municipal": {
-              "bejucal": -0.4,
-              "san-jose-de-las-lajas": 2.7,
-              "jaruco": -2.3,
-              "santa-cruz-del-norte": 1.8,
-              "madruga": -2.0,
-              "nueva-paz": -6.6,
-              "san-nicolas": -1.5,
-              "guines": -1.9,
-              "melena-del-sur": -0.08,
-              "batabano": -2.0,
-              "quivican": 1.1
-
-            
-            }
-        },
-        {
-            "anno": 2022,
-            "poblacion": 381104,
-            "hombres": 192299,
-            "mujeres": 188805,
-            "tasa-migracion-interna": 1.5,
-            "tasa-migracion-externa": 0.2,
-            "saldo-medio-mensual": 4038,
-            "tasa-migracion-municipal": {
-              "bejucal": 6.8,
-              "san-jose-de-las-lajas": 5.5,
-              "jaruco": 0.5,
-              "santa-cruz-del-norte": -0.8,
-              "madruga": -2.6,
-              "nueva-paz": -6.7,
-              "san-nicolas": 1.6,
-              "guines": 0.8,
-              "melena-del-sur": 2.1,
-              "batabano": -0.6,
-              "quivican": 2.3
-
-            
-            }
-        }
-
+    "smm-11-22": [
+      455,
+      465,
+      474,
+      553,
+      642,
+      725,
+      738,
+      719,
+      819,
+      1151,
+      3658,
+      4038
     ]
- }, 
-
- "Provincias": {
-    "Pinar-del-Rio":{
-        "Annos": [
-            { "anno":2011,  
-              "saldo-medio-mensual": 450
-
-            },
-            { "anno":2012,
-            "saldo-medio-mensual": 471
-
-          },
-          { "anno":2013,
-          "saldo-medio-mensual": 480
-
-        },
-        { "anno":2014,
-        "saldo-medio-mensual": 601
-
-      },
-      { "anno":2015,
-      "saldo-medio-mensual": 688
-
-    },
-    { "anno":2016,
-    "saldo-medio-mensual": 786
 
   },
-  { "anno":2017,
-  "saldo-medio-mensual": 813
 
-},
-{ "anno":2018,
-"saldo-medio-mensual": 767
 
-},
-{ "anno":2019,
-"saldo-medio-mensual": 820
+    "municipios":{
+      "bejucal":{
+        "tmm-14-22": [
+          3.5,
+          7.8,
+          6.8,
+          11.8,
+          12.0,
+          8.8,
+          7.0,
+          -0.4,
+          6.8
 
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1146
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3912
-
-},
-{ "anno":2022,
-  "poblacion":  575545,
-"saldo-medio-mensual": 4028
-
-}
-     ]
-    
-    },
-
-    "Artemisa":{
-        "Annos":[
-            { "anno":2011,
-            "saldo-medio-mensual": 424
-
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 441
-
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 449
-
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 551
-
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 668
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 776
-
-},
-
-{ "anno":2017,
-"saldo-medio-mensual": 782
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 851
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 989
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1309
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 4019
-
-},
-{ "anno":2022,
-  "poblacion": 512818,
-"saldo-medio-mensual": 4242
-
-}
         ]
+      },
+
+      "san-jose-de-las-lajas":{
+        "tmm-14-22": [
+          9.2,
+          10.6,
+          13.0,
+          14.5,
+          12.4,
+          12.5,
+          7.6,
+          2.7,
+          5.5
+
+        ]
+      },
+
+      "jaruco":{
+        "tmm-14-22": [
+          1.2,
+          4.2,
+          1.9,
+          1.1,
+          1.3,
+          1.6,
+          4.2,
+          -2.3,
+          0.5
+
+        ]
+      },
+
+      "santa-cruz-del-norte":{
+        "tmm-14-22": [
+          4.2,
+          5.6,
+          3.4,
+          2.0,
+          0.9,
+          3.4,
+          2.9,
+          1.8,
+          -0.8
+
+        ]
+      },
+
+      "madruga": {
+        "tmm-14-22": [
+          -1.7,
+          -2.1,
+          -4.6,
+          -2.6,
+          -2.3,
+          -1.1,
+          -3.9,
+          -2.0,
+          -2.6
+
+        ]
+      },
+
+      "nueva-paz": {
+        "tmm-14-22": [
+          -8.1,
+          -6.6,
+          -8.0,
+          -8.4,
+          -7.4,
+          -7.2,
+          -4.9,
+          -6.6,
+          -6.7
+          
+        ]
+      },
+
+      "san-nicolas": {
+        "tmm-14-22": [
+          3.0,
+          4.5,
+          -0.9,
+          0.3,
+          1.5,
+          1.3,
+          0.3,
+          -1.5,
+          1.6
+
+        ]
+      },
+
+      "guines": {
+        "tmm-14-22": [
+          1.5,
+          3.1,
+          3.1,
+          2.8,
+          2.5,
+          1.7,
+          0.1,
+          -1.9,
+          0.8
+
+        ]
+      },
+
+      "melena-del-sur": {
+        "tmm-14-22": [
+          -0.2,
+          3.3,
+          -1.1,
+          0.9,
+          2.6,
+          -2.7,
+          0.2,
+          -0.08,
+          2.1
+
+        ]
+      },
+
+      "batabano": {
+        "tmm-14-22": [
+          2.4,
+          5.8,
+          0.7,
+          5.0,
+          4.9,
+          3.6,
+          -0.1,
+          -2.0,
+          -0.6
+
+        ]
+      },
+
+      "quivican": {
+        "tmm-14-22": [
+          2.3,
+          6.9,
+          0.4,
+          3.7,
+          3.2,
+          1.0,
+          3.6,
+          1.1,
+          2.3
+
+        ]
+      }
+
     },
+
+    "annos": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+
+    "listamuni": [
+      "bejucal",
+      "san-jose-de-las-lajas",
+      "jaruco",
+      "santa-cruz-del-norte",
+      "madruga",
+      "nueva-paz",
+      "san-nicolas",
+      "guines",
+      "melena-del-sur",
+      "batabano",
+      "quivican"
+
+
+    ],
+
+    "Provincias": [
+      "Pinar-del-Rio",
+      "Artemisa",
+      "La-Habana",
+      "Mayabeque",
+      "Matanzas",
+      "Villa-Clara",
+      "Cienfuegos",
+      "Sancti-Spiritus",
+      "Ciego-de-Avila",
+      "Camaguey",
+      "Las-Tunas",
+      "Holguin",
+      "Granma",
+      "Santiago-de-Cuba",
+      "Guantanamo",
+      "Isla-de-la-Juventud"
+    ],
+
+     
+
+            
+    
+  
+
+ "Provinciassmm": {
+    "Pinar-del-Rio": {
+      "smm-11-22": [
+             
+            450,
+            471,
+            480,
+            601,
+            688,
+            786,
+            813,
+            767,
+            820,
+            1146,
+            3912,
+            4028
+            
+         ],
+
+         "p-22": [
+          575545
+         ],
+
+         "tmi-10-22": [
+          -2.2,
+          -2.0,
+          -2.3,
+          -1.5,
+          -0.7,
+          -2.0,
+          -2.3,
+          -2.7,
+          -2.4,
+          -2.2,
+          -1.9,
+          -2.3,
+          -2.5
+
+         ],
+
+         "tme-10-22" : [
+          -2.9,
+          -2.6,
+          -4.2,
+          0.2,
+          0.1,
+          -2.1,
+          -0.9,
+          -1.7,
+          -1.0,
+          -0.9,
+          -0.3,
+          0.0,
+          -0.1
+
+
+         ]
+    
+       },
+    
+    "Artemisa":{
+      "smm-11-22": [
+            424,
+            441,
+            449,
+            551,
+            668,
+            776,
+            782,
+            851,
+            989,
+            1309,
+            4019,
+            4242
+          
+        ],
+
+        "p-22": [
+          512818
+        ],
+
+        "tmi-10-22": [
+          4.5,
+          4.5,
+          3.3,
+          3.0,
+          1.8,
+          3.7,
+          4.9,
+          5.5,
+          4.8,
+          3.9,
+          2.0,
+          0.1,
+          2.5
+          
+        ],
+
+        "tme-10-22" : [
+         -4.4,
+         -3.2,
+         -0.6,
+         0,
+         0.5,
+         -2.8,
+         -1.5,
+         -2.5,
+         -2.1,
+         -1.5,
+         -0.4,
+         0.0,
+         0.2
+          
+        ]
+        
+     },
 
     "La-Habana": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 456
+      "smm-11-22": [
+             456,
+             467,
+             484,
+             595,
+             725,
+             776,
+             848,
+             843,
+             929,
+             1224,
+             3964,
+             4686
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 467
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 484
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 595
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 725
+        "p-22": [
+          2137847
+        ],
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 776
+        "tmi-10-22": [
+          5.8,
+          5.9,
+          6.7,
+          5.2,
+          4.2,
+          7.4,
+          7.1,
+          7.0,
+          6.9,
+          6.3,
+          3.8,
+          7.0,
+          8.6
 
-},
-{ "anno":2017,
-"saldo-medio-mensual": 848
+        ],
 
-},
-{ "anno":2018,
-"saldo-medio-mensual": 843
+        "tme-10-22" : [
+          -7.9,
+          -8.4,
+          -9.7,
+          0.8,
+          -0.7,
+          -4.7,
+          -3.2,
+          -4.8,
+          -4.3,
+          -3.7,
+          -0.7,
+          0.1,
+          0.4
 
-},
-{ "anno":2019,
-"saldo-medio-mensual": 929
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1224
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3964
-
-},
-{ "anno":2022,
-  "poblacion": 2137847,
-"saldo-medio-mensual": 4686
-
-}
+          
         ]
+
     },
+
+
+     "Mayabeque": {
+      "smm-11-22": [
+        455,
+        465,
+        474,
+        553,
+        642,
+        725,
+        738,
+        719,
+        819,
+        1151,
+        3658,
+        4038
+
+      ],
+
+      "p-22": [
+        381104
+      ]
+
+     },
+
 
     "Matanzas": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 468
+      "smm-11-22": [
+           468,
+           483,
+           484,
+           607,
+           723,
+           806,
+           780,
+           891,
+           975,
+           1280,
+           3670,
+           3942
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 483
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 484
+        "p-22": [
+          710127
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 607
+        "tmi-10-22": [
+          4.8,
+          5.0,
+          6.5,
+          4.1,
+          2.7,
+          5.1,
+          5.8,
+          5.8,
+          5.3,
+          4.3,
+          1.0,
+          -0.6,
+          2.5
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 723
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 806
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 780
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 891
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 975
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1280
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3670
-
-},
-{ "anno":2022,
-  "poblacion": 710127,
-"saldo-medio-mensual": 3942
-}
+        "tme-10-22" : [
+          -2.8,
+          -2.4,
+          -4.3,
+          0.2,
+          0.6,
+          -1.9,
+          -1.3,
+          -2.3,
+          -2.4,
+          -1.3,
+          -0.6,
+          0.1,
+          0.1
+          
         ]
+
     },
 
 
     "Villa-Clara": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 456
+      "smm-11-22": [
+           456,
+           466,
+           476,
+           603,
+           702,
+           808,
+           808,
+           866,
+           944,
+           1238,
+           3801,
+           4049
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 466
+ 
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 476
+        "p-22": [
+          763494
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 603
+        "tmi-10-22": [
+          -1.2,
+          -0.8,
+          -1.0,
+          -0.4,
+          -0.3,
+          -0.1,
+          -0.3,
+          -0.7,
+          -0.8,
+          -0.7,
+          0.2,
+          -0.3,
+          -0.4
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 702
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 808
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 808
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 866
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 944
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1238
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3801
-
-},
-{ "anno":2022,
-  "poblacion": 763494,
-"saldo-medio-mensual": 4049
-
-}
+        "tme-10-22" : [
+          -3.9,
+          -4.0,
+          -4.9,
+          0.2,
+          0.5,
+          -2.4,
+          -1.8,
+          -2.5,
+          -2.1,
+          -1.3,
+          -0.3,
+          -0.1,
+          0.2
+          
         ]
+
     },
 
     "Cienfuegos": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 470
+      "smm-11-22": [
+            470,
+            474,
+            480,
+            609,
+            710,
+            753,
+            746,
+            734,
+            846,
+            1182,
+            3714,
+            3937
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 474
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 480
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 609
+        "p-22": [
+          401738
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 710
+        "tmi-10-22": [
+          3.6,
+          3.2,
+          1.2,
+          0.9,
+          0.6,
+          0,
+          1.5,
+          0.7,
+          0.1,
+          0.6,
+          1.5,
+          0.3,
+          0.4
+          
+        ],
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 753
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 746
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 734
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 846
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1182
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3714
-
-},
-{ "anno":2022,
-  "poblacion": 401738,
-"saldo-medio-mensual": 3937
-
-}
+        "tme-10-22" : [
+          -2.9,
+          -2.9,
+          -4.6,
+          0.3,
+          0.2,
+          -1.9,
+          -1.1,
+          -2.4,
+          -2.2,
+          -1.3,
+          -0.5,
+          0.1,
+          0.1
+          
         ]
+
+
+
     },
 
     "Sancti-Spiritus": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 470
+        "smm-11-22": [
+            470,
+            477,
+            487,
+            614,
+            703,
+            790,
+            758,
+            752,
+            846,
+            1193,
+            3768,
+            3916
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 477
+ 
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 487
+        "p-22": [
+          459173
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 614
+        "tmi-10-22": [
+          0.3,
+          0.7,
+          1.3,
+          0.6,
+          1.0,
+          0,
+          0.6,
+          0.9,
+          0.8,
+          0.9,
+          -0.3,
+          0.9,
+          0.2
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 703
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 790
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 758
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 752
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 846
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1193
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3768
-
-},
-{ "anno":2022,
-  "poblacion": 459173,
-"saldo-medio-mensual": 3916
-
-}
+        "tme-10-22" : [
+          -2.6,
+          -2.7,
+          -3.0,
+          0.3,
+          0.4,
+          -1.6,
+          -0.9,
+          -1.7,
+          -0.7,
+          -1.6,
+          -0.5,
+          0.1,
+          0.19
+          
         ]
+
     },
 
     "Ciego-de-Avila": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 510
+      "smm-11-22": [
+            510,
+            515,
+            520,
+            645,
+            752,
+            816,
+            818,
+            904,
+            975,
+            1278,
+            3744,
+            4083
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 515
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 520
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 645
+        "p-22": [
+          430507
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 752
+        "tmi-10-22": [
+          2.0,
+          3.0,
+          3.0,
+          2.1,
+          2.7,
+          3.7,
+          3.7,
+          1.9,
+          0.1,
+          3.1,
+          1.2,
+          -2.1,
+          1.0
+          
+        ],
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 816
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 818
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 904
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 975
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1278
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3744
-
-},
-{ "anno":2022,
-  "poblacion": 430507,
-"saldo-medio-mensual": 4083
-
-}
+        "tme-10-22" : [
+          -2.0,
+          -2.2,
+          -3.1,
+          0,
+          0.6,
+          -1.8,
+          -1.6,
+          -2.7,
+          -2.3,
+          -2.0,
+          -0.9,
+          0.0,
+          -0.1
+          
         ]
     },
 
     "Camaguey": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 462
+      "smm-11-22": [
+            462,
+            456,
+            465,
+            566,
+            650,
+            679,
+            680,
+            754,
+            845,
+            1176,
+            3766,
+            3878
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 456
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 465
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 566
+        "p-22": [
+          756064
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 650
+        "tmi-10-22": [
+          -3.4,
+          -3.9,
+          -4.3,
+          -1.4,
+          -0.8,
+          -1.7,
+          -1.3,
+          -1.2,
+          -1.4,
+          -1.3,
+          0.1,
+          -0.4,
+          -1.4
+          
+        ],
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 679
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 680
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 754
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 845
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1176
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3766
-
-},
-{ "anno":2022,
-  "poblacion": 756064,
-"saldo-medio-mensual": 3878
-
-}
+        "tme-10-22" : [
+          -2.9,
+          -3.2,
+          -4.7,
+          0.5,
+          0.4,
+          -2.1,
+          -1.8,
+          -2.7,
+          -2.7,
+          -1.1,
+          -0.4,
+          -0.1,
+          -0.1
+          
         ]
     },
 
     "Las-Tunas": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 439
+      "smm-11-22":  [
+             439,
+             456,
+             463,
+             584,
+             643,
+             676,
+             688,
+             682,
+             802,
+             1137,
+             3751,
+             3894
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 456
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 463
+        "p-22":[
+          528853
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 584
+        "tmi-10-22": [
+          -1.0,
+          -1.3,
+          -1.7,
+          -2.0,
+          -1.8,
+          -2.7,
+          -3.0,
+          -3.1,
+          -3.2,
+          -2.5,
+          -1.8,
+          -1.0,
+          -2.8
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 643
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 676
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 688
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 682
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 802
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1137
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3751
-
-},
-{ "anno":2022,
-  "poblacion": 528853,
-"saldo-medio-mensual": 3894
-
-}
+        "tme-10-22" : [
+          -1.2,
+          -1.3,
+          -2.6,
+          0.2,
+          0.5,
+          -1.2,
+          -0.3,
+          -1.6,
+          -0.9,
+          -0.6,
+          -0.3,
+          0.0,
+          0.1
+          
         ]
+
     },
 
     "Holguin": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 455
+      "smm-11-22": [
+            455,
+            462,
+            471,
+            575,
+            669,
+            730,
+            731,
+            763,
+            875,
+            1105,
+            3946,
+            4151
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 462
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 471
+        "p-22": [
+          1006834
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 575
+        "tmi-10-22": [
+          -3.6,
+          -3.6,
+          -3.7,
+          -3.3,
+          -2.4,
+          -3.9,
+          -4.1,
+          -4.2,
+          -3.9,
+          -3.9,
+          -2.3,
+          -3.0,
+          -4.8
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 669
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 730
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 731
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 763
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 875
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1105
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3946
-
-},
-{ "anno":2022,
-  "poblacion": 1006834,
-"saldo-medio-mensual": 4151
-
-}
+        "tme-10-22" : [
+          -1.5,
+          -1.7,
+          -2.2,
+          0.1,
+          0.3,
+          -1.0,
+          -0.6,
+          -1.2,
+          -0.5,
+          -0.5,
+          -0.2,
+          0.1,
+          0.0
+          
         ]
     },
 
     "Granma": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 449
+      "smm-11-22": [
+             449,
+             460,
+             470,
+             565,
+             633,
+             676,
+             677,
+             660,
+             776,
+             1125,
+             3780,
+             3871
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 460
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 470
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 565
+        "p-22": [
+          804331
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 633
+        "tmi-10-22": [
+          -4.3,
+          -4.1,
+          -4.9,
+          -5.0,
+          -3.9,
+          -7.1,
+          -7.5,
+          -7.2,
+          -6.2,
+          -6.5,
+          -3.9,
+          -4.3,
+          -7.2
+          
+        ],
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 676
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 677
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 660
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 776
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1125
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3780
-
-},
-{ "anno":2022,
-  "poblacion": 804331,
-"saldo-medio-mensual": 3871
-
-}
+        "tme-10-22" : [
+          -0.7,
+          -0.7,
+          -1.4,
+          0.0,
+          0.1,
+          -0.7,
+          -0.7,
+          -0.8,
+          -0.3,
+          -0.3,
+          -0.2,
+          -0.1,
+          -0.2
+          
         ]
+
     },
     
     "Santiago-de-Cuba": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 436
+      "smm-11-22": [
+             436,
+             433,
+             443,
+             540,
+             628,
+             657,
+             659,
+             652,
+             757,
+             1084,
+             3705,
+             3816
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 433
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 443
+        "p-22": [
+          1037339
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 540
+        "tmi-10-22": [
+          -4.4,
+          -4.6,
+          -5.1,
+          -2.7,
+          -2.9,
+          -4.9,
+          -5.4,
+          -4.8,
+          -4.1,
+          -3.8,
+          -2.2,
+          -2.4,
+          -3.8
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 628
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 657
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 659
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 652
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 757
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1084
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3705
-
-},
-{ "anno":2022,
-  "poblacion": 1037339,
-"saldo-medio-mensual": 3816
-
-}
+        "tme-10-22" : [
+          -1.4,
+          -1.5,
+          -1.6,
+          0.3,
+          0.6,
+          -0.8,
+          -0.9,
+          -0.8,
+          -0.5,
+          -0.5,
+          -0.1,
+          0.0,
+          -0.1
+          
         ]
     },
 
     "Guantanamo": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 431
+      "smm-11-22": [
+             431,
+             434,
+             442,
+             548,
+             624,
+             633,
+             624,
+             655,
+             778,
+             1131,
+             3843,
+             3911
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 434
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 442
+        "p-22": [
+          500153
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 548
+        "tmi-10-22": [
+          -7.1,
+          -6.6,
+          -7.8,
+          -7.0,
+          -6.5,
+          -9.4,
+          -9.1,
+          -8.6,
+          -8.7,
+          -8.0,
+          -3.9,
+          -5.0,
+          -7.7
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 624
-
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 633
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 624
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 655
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 778
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1131
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3843
-
-},
-{ "anno":2022,
-  "poblacion": 500153,
-"saldo-medio-mensual": 3911
-
-}
+        "tme-10-22" : [
+          -1.2,
+          -1.5,
+          -1.4,
+          0.1,
+          0.4,
+          -0.6,
+          -1.1,
+          -0.7,
+          -0.6,
+          -0.4,
+          -0.2,
+          -0.1,
+          0.0
+          
         ]
     },
 
     "Isla-de-la-Juventud": {
-        "Annos": [
-            { "anno":2011,
-            "saldo-medio-mensual": 423
+      "smm-11-22": [
+             423,
+             451,
+             461,
+             530,
+             617,
+             655,
+             683,
+             690,
+             767,
+             1078,
+             3590,
+             3797
 
-          },
-          { "anno":2012,
-          "saldo-medio-mensual": 451
+        ],
 
-        },
-        { "anno":2013,
-        "saldo-medio-mensual": 461
+        "p-22": [
+          83583
+        ],
 
-      },
-      { "anno":2014,
-      "saldo-medio-mensual": 530
+        "tmi-10-22": [
+          -1.7,
+          -4.3,
+          -7.3,
+          -5.3,
+          -3.9,
+          -5.9,
+          -3.7,
+          -5.5,
+          -3.8,
+          -4.2,
+          -0.1,
+          -0.1,
+          0.9
+          
+        ],
 
-    },
-    { "anno":2015,
-    "saldo-medio-mensual": 617
+        "tme-10-22" : [
+          -3.3,
+          -3.1,
+          -4.5,
+          -0.1,
+          0.4,
+          -2.3,
+          -2.2,
+          -3.2,
+          -1.9,
+          -1.1,
+          -0.1,
+          0.1,
+          0.0
 
-  },
-  { "anno":2016,
-  "saldo-medio-mensual": 655
-
-},
-{ "anno":2017,
-"saldo-medio-mensual": 683
-
-},
-{ "anno":2018,
-"saldo-medio-mensual": 690
-
-},
-{ "anno":2019,
-"saldo-medio-mensual": 767
-
-},
-{ "anno":2020,
-"saldo-medio-mensual": 1078
-
-},
-{ "anno":2021,
-"saldo-medio-mensual": 3590
-
-},
-{ "anno":2022,
-  "poblacion": 83583,
-"saldo-medio-mensual": 3797
-
-}
+          
         ]
     }
     
  
 }
+
+   
 
 }
 
